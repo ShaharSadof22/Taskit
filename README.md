@@ -7,4 +7,6 @@ Now imagine that you can take that whiteboard anywhere you go on your smartphone
 Want to learn more? Check out
 https://taskit-app2020.herokuapp.com/#/
 
+Link for the backend repo - https://github.com/ShaharSadof22/Taskit-backend
+
 The Taskit is a end-to-end project based on React in the frontend and Node and MongoDB Atlas (serverless DB) at the backend
