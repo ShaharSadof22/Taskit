@@ -4,8 +4,7 @@ Imagine a white board, filled with lists of sticky notes, with each note as a ta
 
 Now imagine that you can take that whiteboard anywhere you go on your smartphone, and can access it from any computer through the web. That's Taskit!
 
-Want to learn more? Check out
-https://taskit-app2020.herokuapp.com/#/
+Want to learn more? Check out - https://taskit-app2020.herokuapp.com/#/
 
 Link for the backend repo - https://github.com/ShaharSadof22/Taskit-backend
 
